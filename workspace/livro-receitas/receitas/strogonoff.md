@@ -1,6 +1,6 @@
-# Strogonoff de Frango :chi
-** Negrito **
-__ Itálico __
+# Strogonoff de Frango 
+**Negrito**
+_Itálico_
 
 ### Ingredientes
 
@@ -22,9 +22,9 @@ __ Itálico __
 
 #### Sua Opinião:
 
-- [] gostou da receita
-- [] Odiou a receita
-- [] vai correndo preparar!
-- [] tá morrendo de rir! ::)
+- [ ] gostou da receita
+- [ ] Odiou a receita
+- [ ] vai correndo preparar!
+- [ ] tá morrendo de rir! 
 
 
